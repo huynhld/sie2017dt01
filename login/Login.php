@@ -2,7 +2,7 @@
 header("Cache-Control: private, must-revalidate, max-age=0");
 header("Pragma: no-cache");
 header("Expires: Fri, 4 Jun 2010 12:00:00 GMT");
-include("config.php");
+include("Config.php");
 session_start();
 $error = "";
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
