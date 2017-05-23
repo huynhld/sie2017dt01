@@ -344,7 +344,6 @@ function showSlides() {
 		<table >
 			<tr>
 				<th>Kỹ năng tiếng anh </th>
-
 				<td>
 					<input type="text" name="ky_nang_tieng_anh" required="true" placeholder="(Trường hợp không có ghi là không có)" size="60" value="<?=$row["skill_english"]?>">
 			

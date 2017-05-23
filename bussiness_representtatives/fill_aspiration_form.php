@@ -8,7 +8,7 @@
 	<title>Đại diện doanh nghiệp đăg ký thông tin</title>
 	<meta charset="UTF-8">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	  <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
+	  <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
     <style type="text/css">
         .navbar{
             height: 100px;
@@ -60,16 +60,16 @@
                         <h3 style="margin-top: 5px;">Viện đào tạo quốc tế</h3>
                     </div>
                     <div class="col-xs-12 col-lg-3 col-lg-offset-8 bottom-align-text " style="position: absolute; bottom: 0;">
-                        <a href="#">Welcome Student |</a>
+                        <!-- <a href="#">Welcome Student |</a>
                     
-                        <button type="submit" class="btn btn-default"><a href = "/login/logout.php">Sign Out</a></button>              
+                        <button type="submit" class="btn btn-default"><a href = "/login/logout.php">Sign Out</a></button>  -->             
                     </div>          
                 <!-- </div> -->
             </div>
         </nav>
     <!--header-->
 <div class="container">
-<iframe src="https://docs.google.com/forms/d/1edf3PkB2Td-QwmxrQST-Q1Q3AVH0zSP0Liqxoh6iNpM/edit?usp=sharing" width="100%" height="768px" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>	
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdpQYPTjSD_Bp1Ps9AMn6PKXVn-tC7SNwl_A-msQ4Qot46xfQ/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Đang tải...</iframe>
 </div>
 
 
